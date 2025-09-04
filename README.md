@@ -6,7 +6,7 @@ The dataset comes from [Kaggle’s 2015 Flight Delays and Cancellations dataset]
 Final Tableau Dashboard: [link](https://public.tableau.com/views/flights_17569375980110/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```bash
 flight-delays-sql-tableau/
